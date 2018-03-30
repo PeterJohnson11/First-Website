@@ -2,10 +2,9 @@
 <head>
 	<Title>Peters Website</title>
 
-	
 	<Style type="text/css">
 	   body {
-		background-color:red;
+		background-color:green;
 		color: black;
 		margin-top: 50px;
 		margin-left: 50px;
