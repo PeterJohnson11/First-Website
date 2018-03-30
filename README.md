@@ -1,4 +1,3 @@
-# First-Website
 <html>
 <head>
 	<Title>Peters Website</title>
@@ -30,7 +29,7 @@
 	</p>
 
 	<h4>
-		<a href="https://www.nfl.com> NFL.com </a>
+		<a href="https://www.nfl.com"> NFL.com </a>
 	</h4>
 
 	<h2>
@@ -41,7 +40,7 @@
 
 	<img src="http://apps.startribune.com/blogs/user_images/nealjustin_1517677371_hart3.jpg" />
 	<h3>
-		<a href="http://www.philadelphiaeagles.com"> Eagles</a>
+		<a href="http://www.philadelphiaeagles.com"> Eagles </a>
 	</h3>
 
 </body>
